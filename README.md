@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ecasticx
+- 👋 Hi, I’m Kiri
 - 👀 I’m interested in a lot of things. I especially like reading, drawing and learning and exploring new things.
 - 🌱 I’m currently learning web development, animation and ui/ux.
-- 📫 You can reach me by email: ecasticx@gmail.com
+- 📫 You can reach me by email: kirionearth@gmail.com
